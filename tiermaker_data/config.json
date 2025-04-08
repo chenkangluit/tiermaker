@@ -1,0 +1,25 @@
+{
+  "tiers": [
+    {
+      "name": "S",
+      "color": "#FF7F7F",
+      "images": []
+    },
+    {
+      "name": "A",
+      "color": "#FFBF7F",
+      "images": []
+    },
+    {
+      "name": "B",
+      "color": "#FFFF7F",
+      "images": []
+    },
+    {
+      "name": "C",
+      "color": "#7FFF7F",
+      "images": []
+    }
+  ],
+  "repository_images": []
+}
