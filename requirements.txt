@@ -1,0 +1,3 @@
+# TierMaker依赖包
+Pillow>=9.0.0  # 图像处理
+tkinterdnd2>=0.3.0  # 拖放功能支持
